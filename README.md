@@ -1,165 +1,210 @@
-<!-- =============== SAMURAI DEVELOPER PROFILE =============== -->
+<!-- ====================================================== -->
+
+<!--  TAEKWONDO x KALARIPAYATTU x SOFTWARE DEVELOPER        -->
+
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:5B0000,100:FF3030&height=200&section=header&text=RAMAN%20KUMAR&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=DISCIPLINE%20%E2%80%A2%20CODE%20%E2%80%A2%20CONQUER&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF4040&center=true&vCenter=true&width=650&lines=Software+Developer+in+Training;CSE+Student+%40+NIT+Jamshedpur;Train+Hard.+Code+Smart.+Never+Quit.;One+Commit+at+a+Time+%F0%9F%A5%8B" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:102D4A,70:8B1E2D,100:C49A45&text=RAMAN%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20DISCIPLINE%20%E2%80%A2%20PRECISION&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-**🥋 The Mind of a Strategist. The Discipline of a Martial Artist. The Soul of a Developer.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=C49A45&center=true&vCenter=true&width=700&lines=CSE+Student+%40+NIT+Jamshedpur;Software+Developer+in+Progress;Taekwondo+Mindset+%7C+Kalaripayattu+Spirit;Turning+Ideas+Into+Code..." alt="Typing animation" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/raa05-man)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge\&logo=linkedin\&logoColor=red)](https://www.linkedin.com/in/raman-kumar-bb27a22b6)
+<br/>
+
+**🥋 Precision in Movement. Discipline in Training. Creativity in Code.**
+
+<br/>
+
+<a href="https://github.com/raa05-man">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-101827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/raman-kumar-bb27a22b6">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-102D4A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## ⛩️ THE DOJO — ABOUT ME
+## 🥋 `01 // THE WARRIOR BEHIND THE CODE`
 
-> *"A black belt is a white belt who never gave up."*
+```text
+> Initializing developer profile...
+> Loading discipline       [██████████] 100%
+> Loading curiosity        [██████████] 100%
+> Loading problem_solving  [IN PROGRESS]
+> Status: Always learning.
+```
 
-Hey there, fellow warrior! 👋
+Hey! I'm **Raman Kumar**, a Computer Science and Engineering student at **NIT Jamshedpur**.
 
-I'm **Raman Kumar**, a Computer Science and Engineering student at **NIT Jamshedpur**, learning to master the art of software development.
+I approach software development with the mindset of a martial artist: consistent practice, attention to detail, patience under pressure, and the willingness to learn from every mistake.
 
-I believe programming and martial arts share the same philosophy: patience, discipline, strategy, and consistent practice.
+* 💻 Exploring software development and building practical projects.
+* 🧠 Strengthening my programming and problem-solving fundamentals.
+* 🥋 Inspired by the precision of Taekwondo and the rich traditions of Kalaripayattu.
+* ⚡ Interested in turning creative ideas into useful applications.
+* 🤝 Open to collaborations, hackathons, and internship opportunities.
 
-* 🥋 **The Discipline:** Practicing problem-solving and strengthening my fundamentals.
-* ⚔️ **The Craft:** Building projects and exploring software development.
-* 🧠 **The Strategy:** Breaking complex problems into smaller, manageable challenges.
-* 🚀 **The Mission:** Learning, creating, and becoming a better developer every day.
-* 🤝 **The Brotherhood:** Open to collaboration, hackathons, and internship opportunities.
+> *The discipline that sharpens a martial artist can also sharpen a developer.*
 
 ---
 
-## ⚔️ THE ARSENAL — TECH STACK
+## ⚔️ `02 // THE DEVELOPER'S ARSENAL`
 
-*Every warrior has a weapon. Every developer has a toolkit.*
+*Different tools. Different techniques. One goal: build something meaningful.*
 
-### 🗡️ Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="Programming languages"/>
 </p>
 
-### 🏯 Frontend & Backend
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,tailwind" alt="Web development"/>
 </p>
 
 ### 🛠️ Tools & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Developer tools"/>
 </p>
 
-> **Warrior's rule:** Keep only the technologies you actually use. Remove any icon that doesn't reflect your current skills.
+> ⚠️ Keep only the technologies you genuinely use. Remove any icon that doesn't reflect your current experience.
 
 ---
 
-## 🏆 THE BATTLEFIELD — FEATURED PROJECTS
+## 🏹 `03 // THE BATTLEFIELD — PROJECTS`
 
-*Every project is a battle. Every bug is a lesson. Every release is progress.*
+*Every project is a challenge. Every bug is a lesson. Every improvement is progress.*
 
-### 🎲 01 — Lottery Game
+### 🎯 01 — Lottery Game
 
-A JavaScript project built to practice programming fundamentals and interactive application logic.
+A JavaScript project focused on programming fundamentals and interactive application logic.
 
-**Weapon of choice:** JavaScript
+`JavaScript` · `Web Development`
 
-[⚔️ Explore Repository](https://github.com/raa05-man)
+[**↗ Explore on GitHub**](https://github.com/raa05-man)
 
 ### 🌦️ 02 — Weather App
 
-A weather-focused web application built to explore frontend development and weather information interfaces.
+A weather-focused application built to explore frontend development and weather information interfaces.
 
-**Weapon of choice:** HTML · CSS · JavaScript
+`HTML` · `CSS` · `JavaScript`
 
-[⚔️ Explore Repository](https://github.com/raa05-man)
+[**↗ Explore on GitHub**](https://github.com/raa05-man)
 
 ### ⚛️ 03 — React Weather App
 
-A React-based weather application demonstrating component-based development and interactive user interfaces.
+A React-based application demonstrating component-based development and interactive user interfaces.
 
-**Weapon of choice:** React · JavaScript
+`React` · `JavaScript`
 
-[⚔️ Explore Repository](https://github.com/raa05-man)
+[**↗ Explore on GitHub**](https://github.com/raa05-man)
 
-### 🏯 04 — Web Team Hackathon
+### 🏆 04 — Web Team Hackathon
 
-A hackathon project focused on collaborative web development and practical implementation.
+A collaborative web development project associated with a hackathon.
 
-**Weapon of choice:** TypeScript · Web Development
+`TypeScript` · `Web Development`
 
-[⚔️ Explore Repository](https://github.com/raa05-man)
+[**↗ Explore on GitHub**](https://github.com/raa05-man)
 
 <div align="center">
 
-[![Explore All Repositories](https://img.shields.io/badge/ENTER%20THE%20BATTLEFIELD-Explore%20All%20Repositories-8B0000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/raa05-man?tab=repositories)
+<a href="https://github.com/raa05-man?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-C49A45?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore all projects"/>
+</a>
 
 </div>
 
-> Replace the repository links above with the direct links to each project. Update the descriptions and technology lists to match the actual code.
+> **Note:** Replace the links above with the individual repository URLs. Update the project descriptions and technologies to match their actual implementations.
 
 ---
 
-## 📊 THE WARRIOR'S PROGRESS
+## 📊 `04 // TRAINING LOG — GITHUB ANALYTICS`
 
-*Strength is built through consistent practice.*
+*Consistency beats intensity when intensity cannot be sustained.*
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raa05-man&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF4040&icon_color=FF4040&text_color=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raa05-man&show_icons=true&theme=transparent&hide_border=true&title_color=C49A45&icon_color=E05260&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raa05-man&layout=compact&theme=dark&bg_color=0D1117&title_color=FF4040&text_color=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raa05-man&layout=compact&theme=transparent&hide_border=true&title_color=C49A45&text_color=C9D1D9" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=raa05-man&theme=dark&background=0D1117&ring=FF4040&fire=FF3030&currStreakLabel=FF4040&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=raa05-man&theme=transparent&hide_border=true&ring=C49A45&fire=E05260&currStreakLabel=C49A45&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🥋 THE WAY OF THE WARRIOR
+## 🥋 `05 // THE MARTIAL ARTS PHILOSOPHY`
 
 <div align="center">
 
-### 七転び八起き
+### 태권도 · TAEKWONDO
 
-### *Nanakorobi Yaoki*
+**Precision · Speed · Control**
 
-**"Fall seven times. Stand up eight."**
-
-In martial arts, progress comes from practice.
-
-In programming, progress comes from debugging, learning, and trying again.
-
-**No shortcuts. No excuses. Just continuous improvement.**
-
-</div>
-
----
-
-## 🤝 JOIN MY DOJO
-
-Have an interesting project, an idea to build, or an opportunity to collaborate?
-
-Let's connect and create something meaningful.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/raa05-man)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=FF4040)](https://www.linkedin.com/in/raman-kumar-bb27a22b6)
+Every movement has a purpose. Every line of code should, too.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3030,50:5B0000,100:080808&height=100&section=footer" width="100%" />
+### കളരിപ്പയറ്റ് · KALARIPAYATTU
 
-**⚔️ TRAIN. BUILD. IMPROVE. REPEAT. ⚔️**
+**Awareness · Balance · Adaptability**
+
+Stay balanced when the problem gets complicated. Adapt when the first approach fails.
+
+<br/>
+
+### 💻 SOFTWARE ENGINEERING
+
+**Think · Build · Test · Improve**
+
+```text
+while (curious) {
+    learn();
+    build();
+    debug();
+    improve();
+}
+```
+
+*Train with discipline. Think with clarity. Build with purpose.*
+
+</div>
+
+---
+
+## 🤝 `06 // CONNECT & COLLABORATE`
+
+<div align="center">
+
+Got an interesting idea, an exciting project, or an opportunity to collaborate?
+
+**Let's build something worth remembering.**
+
+<br/>
+
+<a href="https://github.com/raa05-man">
+<img src="https://img.shields.io/badge/GITHUB-101827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/raman-kumar-bb27a22b6">
+<img src="https://img.shields.io/badge/LINKEDIN-102D4A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C49A45,45:8B1E2D,100:07111F&section=footer" />
+
+**🥋 DISCIPLINE IN TRAINING. PRECISION IN CODE. PROGRESS EVERY DAY.**
 
 </div>
