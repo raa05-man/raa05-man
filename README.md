@@ -1,210 +1,288 @@
-<!-- ====================================================== -->
-
-<!--  TAEKWONDO x KALARIPAYATTU x SOFTWARE DEVELOPER        -->
-
-<!-- ====================================================== -->
+<!-- =============== WARRIOR DEVELOPER PROFILE =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:102D4A,70:8B1E2D,100:C49A45&text=RAMAN%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20DISCIPLINE%20%E2%80%A2%20PRECISION&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:190A24,55:7B1020,80:153B66,100:050505&height=240&section=header&text=RAMAN%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=THE%20WARRIOR%20DEVELOPER&descSize=20&descAlignY=57&stroke=E63946&strokeWidth=1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=650&color=E63946&center=true&vCenter=true&width=750&lines=🥋+TAEKWONDO+MINDSET;⚔️+KALARIPAYATTU+SPIRIT;💻+SOFTWARE+DEVELOPER+IN+PROGRESS;⚡+EAT.+SLEEP.+CODE.+TRAIN.+REPEAT.;🔥+DISCIPLINE+IS+MY+SUPERPOWER" alt="Animated typing introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=C49A45&center=true&vCenter=true&width=700&lines=CSE+Student+%40+NIT+Jamshedpur;Software+Developer+in+Progress;Taekwondo+Mindset+%7C+Kalaripayattu+Spirit;Turning+Ideas+Into+Code..." alt="Typing animation" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20EVOLVING-E63946?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MINDSET-NEVER%20GIVE%20UP-153B66?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20CONQUER-C49A45?style=for-the-badge&logo=codeforces&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-**🥋 Precision in Movement. Discipline in Training. Creativity in Code.**
+### 🥋 DISCIPLINE IN TRAINING. PRECISION IN CODE.
 
-<br/>
-
-<a href="https://github.com/raa05-man">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-101827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/raman-kumar-bb27a22b6">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-102D4A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
+*One mind. Multiple disciplines. Unlimited possibilities.*
 
 </div>
 
 ---
 
-## 🥋 `01 // THE WARRIOR BEHIND THE CODE`
+## ⚡ `01 // INITIALIZING WARRIOR.exe`
 
 ```text
-> Initializing developer profile...
-> Loading discipline       [██████████] 100%
-> Loading curiosity        [██████████] 100%
-> Loading problem_solving  [IN PROGRESS]
-> Status: Always learning.
+╔══════════════════════════════════════════════╗
+║          WARRIOR DEVELOPER SYSTEM            ║
+╠══════════════════════════════════════════════╣
+║  Name       : Raman Kumar                    ║
+║  Education  : CSE @ NIT Jamshedpur           ║
+║  Identity   : Developer + Martial Arts Fan   ║
+║  Mindset    : Learn > Build > Improve        ║
+║  Mission    : Turning Ideas Into Reality     ║
+║  Status     : SYSTEM ONLINE                  ║
+╚══════════════════════════════════════════════╝
 ```
 
-Hey! I'm **Raman Kumar**, a Computer Science and Engineering student at **NIT Jamshedpur**.
+<img align="right" width="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated coding illustration"/>
 
-I approach software development with the mindset of a martial artist: consistent practice, attention to detail, patience under pressure, and the willingness to learn from every mistake.
+Hey, I'm **Raman Kumar**! 👋
 
-* 💻 Exploring software development and building practical projects.
-* 🧠 Strengthening my programming and problem-solving fundamentals.
-* 🥋 Inspired by the precision of Taekwondo and the rich traditions of Kalaripayattu.
-* ⚡ Interested in turning creative ideas into useful applications.
-* 🤝 Open to collaborations, hackathons, and internship opportunities.
+A Computer Science and Engineering student at **NIT Jamshedpur**, passionate about technology, building projects, and continuously improving my skills.
 
-> *The discipline that sharpens a martial artist can also sharpen a developer.*
+My mindset combines the discipline of a martial artist with the curiosity of a developer.
 
----
+* 💻 Building projects and exploring software development.
+* 🧠 Strengthening programming and problem-solving skills.
+* 🥋 Inspired by Taekwondo and the traditional art of Kalaripayattu.
+* ⚔️ Believing in consistency, patience, and continuous improvement.
+* 🚀 Looking forward to exciting projects, collaborations, and internships.
 
-## ⚔️ `02 // THE DEVELOPER'S ARSENAL`
-
-*Different tools. Different techniques. One goal: build something meaningful.*
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="Programming languages"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,tailwind" alt="Web development"/>
-</p>
-
-### 🛠️ Tools & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Developer tools"/>
-</p>
-
-> ⚠️ Keep only the technologies you genuinely use. Remove any icon that doesn't reflect your current experience.
+<br clear="right"/>
 
 ---
 
-## 🏹 `03 // THE BATTLEFIELD — PROJECTS`
+## 🥋 `02 // CHOOSE YOUR FIGHTING STYLE`
 
-*Every project is a challenge. Every bug is a lesson. Every improvement is progress.*
+<div align="center">
 
-### 🎯 01 — Lottery Game
+<table>
+<tr>
+<td width="50%" align="center">
 
-A JavaScript project focused on programming fundamentals and interactive application logic.
+### 🔵 TAEKWONDO
 
-`JavaScript` · `Web Development`
+<img src="https://img.shields.io/badge/STYLE-SPEED%20%26%20PRECISION-153B66?style=for-the-badge" />
 
-[**↗ Explore on GitHub**](https://github.com/raa05-man)
+**The Art of Precision**
 
-### 🌦️ 02 — Weather App
+* ⚡ Speed
+* 🎯 Accuracy
+* 🧠 Focus
+* 💪 Discipline
 
-A weather-focused application built to explore frontend development and weather information interfaces.
+*In code: Fast thinking, clean logic, precise execution.*
 
-`HTML` · `CSS` · `JavaScript`
+</td>
+<td width="50%" align="center">
 
-[**↗ Explore on GitHub**](https://github.com/raa05-man)
+### 🔴 KALARIPAYATTU
 
-### ⚛️ 03 — React Weather App
+<img src="https://img.shields.io/badge/STYLE-BALANCE%20%26%20ADAPTABILITY-7B1020?style=for-the-badge" />
 
-A React-based application demonstrating component-based development and interactive user interfaces.
+**The Warrior Tradition**
 
-`React` · `JavaScript`
+* ⚔️ Adaptability
+* 🧘 Balance
+* 🔥 Resilience
+* 🛡️ Awareness
 
-[**↗ Explore on GitHub**](https://github.com/raa05-man)
+*In code: Adapt to challenges, debug patiently, keep improving.*
 
-### 🏆 04 — Web Team Hackathon
+</td>
+</tr>
+</table>
 
-A collaborative web development project associated with a hackathon.
+</div>
 
-`TypeScript` · `Web Development`
+---
 
-[**↗ Explore on GitHub**](https://github.com/raa05-man)
+## 💻 `03 // WEAPONS EQUIPPED — TECH STACK`
+
+<div align="center">
+
+### ⚔️ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" alt="Programming languages"/>
+
+### 🌐 Development Arsenal
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs,tailwind&theme=dark" alt="Development technologies"/>
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" alt="Developer tools"/>
+
+</div>
+
+> ⚠️ Keep only the technologies you genuinely use. Your profile should reflect your real skills.
+
+---
+
+## 🎮 `04 // THE BATTLEFIELD — PROJECTS`
+
+<div align="center">
+
+*Every project is a new level. Every bug is a boss fight.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎲 LOTTERY GAME
+
+A JavaScript project focused on interactive application logic.
+
+**CLASS:** Frontend Challenge
+
+**STACK:** `JavaScript`
+
+[⚔️ ENTER PROJECT](https://github.com/raa05-man?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 🌦️ WEATHER APP
+
+A weather application built to explore frontend development.
+
+**CLASS:** Web Development
+
+**STACK:** `HTML` `CSS` `JavaScript`
+
+[⚔️ ENTER PROJECT](https://github.com/raa05-man?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚛️ REACT WEATHER APP
+
+A React project demonstrating component-based UI development.
+
+**CLASS:** React Development
+
+**STACK:** `React` `JavaScript`
+
+[⚔️ ENTER PROJECT](https://github.com/raa05-man?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 🏆 WEB TEAM HACKATHON
+
+A collaborative project built in a hackathon environment.
+
+**CLASS:** Team Challenge
+
+**STACK:** `TypeScript`
+
+[⚔️ ENTER PROJECT](https://github.com/raa05-man?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/raa05-man?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-C49A45?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore all projects"/>
+<img src="https://img.shields.io/badge/⚔️%20VIEW%20ALL%20MISSIONS-Explore%20Repositories-E63946?style=for-the-badge" alt="Explore repositories"/>
 </a>
 
 </div>
 
-> **Note:** Replace the links above with the individual repository URLs. Update the project descriptions and technologies to match their actual implementations.
+> Replace the links with each project's actual repository URL. Update the descriptions and stack according to the actual implementation.
 
 ---
 
-## 📊 `04 // TRAINING LOG — GITHUB ANALYTICS`
-
-*Consistency beats intensity when intensity cannot be sustained.*
+## 📊 `05 // PLAYER STATISTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raa05-man&show_icons=true&theme=transparent&hide_border=true&title_color=C49A45&icon_color=E05260&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raa05-man&show_icons=true&hide_border=true&bg_color=080B12&title_color=E63946&icon_color=3D8BFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raa05-man&layout=compact&theme=transparent&hide_border=true&title_color=C49A45&text_color=C9D1D9" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raa05-man&layout=compact&hide_border=true&bg_color=080B12&title_color=E63946&text_color=FFFFFF" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=raa05-man&theme=transparent&hide_border=true&ring=C49A45&fire=E05260&currStreakLabel=C49A45&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=raa05-man&hide_border=true&background=080B12&ring=E63946&fire=FF7A45&currStreakLabel=3D8BFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A94A6" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🥋 `05 // THE MARTIAL ARTS PHILOSOPHY`
+## 🐍 `06 // CONTRIBUTION ATTACK`
 
 <div align="center">
 
-### 태권도 · TAEKWONDO
+**Every contribution is another step forward.**
 
-**Precision · Speed · Control**
+<!--
+To activate the animated snake:
+1. Create a GitHub Actions workflow named snake.yml.
+2. Configure it to generate the contribution snake SVG.
+3. Publish the generated SVG to the output branch.
+4. Replace the image path below if your generated filename differs.
+-->
 
-Every movement has a purpose. Every line of code should, too.
+<img src="https://raw.githubusercontent.com/raa05-man/raa05-man/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🧠 `07 // THE WARRIOR'S CODE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=3D8BFF&center=true&vCenter=true&width=700&lines=Fall+7+times%2C+stand+up+8.;A+bug+is+not+the+end%2C+it%27s+a+lesson.;Train+your+mind.+Sharpen+your+skills.;Consistency+creates+mastery." alt="Animated motivational quotes"/>
 
 <br/>
 
-### കളരിപ്പയറ്റ് · KALARIPAYATTU
-
-**Awareness · Balance · Adaptability**
-
-Stay balanced when the problem gets complicated. Adapt when the first approach fails.
-
-<br/>
-
-### 💻 SOFTWARE ENGINEERING
-
-**Think · Build · Test · Improve**
-
-```text
-while (curious) {
+```cpp
+while (alive) {
     learn();
+    practice();
     build();
-    debug();
+    fail();
     improve();
 }
 ```
 
-*Train with discipline. Think with clarity. Build with purpose.*
+### 🥋 Train Like a Martial Artist. Build Like an Engineer.
+
+*The goal isn't to be better than everyone else.*
+
+*The goal is to be better than you were yesterday.*
 
 </div>
 
 ---
 
-## 🤝 `06 // CONNECT & COLLABORATE`
+## 🤝 `08 // CONNECT WITH THE WARRIOR`
 
 <div align="center">
 
-Got an interesting idea, an exciting project, or an opportunity to collaborate?
-
-**Let's build something worth remembering.**
-
-<br/>
+**Got an idea? Let's build something legendary.**
 
 <a href="https://github.com/raa05-man">
-<img src="https://img.shields.io/badge/GITHUB-101827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-111111?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/raman-kumar-bb27a22b6">
-<img src="https://img.shields.io/badge/LINKEDIN-102D4A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-153B66?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C49A45,45:8B1E2D,100:07111F&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:153B66,70:7B1020,100:050505&height=130&section=footer&animation=fadeIn" />
 
-**🥋 DISCIPLINE IN TRAINING. PRECISION IN CODE. PROGRESS EVERY DAY.**
+**⚡ CODE. TRAIN. EVOLVE. REPEAT. ⚡**
 
 </div>
